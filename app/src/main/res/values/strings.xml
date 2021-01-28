@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">basicStructureCoroutine</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit turpis eget mauris rhoncus accumsan eget sed nisl. Curabitur mattis tempus sollicitudin. Proin ut ex et ligula mollis gravida et ut orci. Aliquam ullamcorper, nisi eu faucibus dignissim, sapien enim suscipit neque, at porttitor neque massa at ipsum. Morbi tortor ex, maximus at nisl rutrum, porttitor ornare nibh. Morbi suscipit, sapien eget sollicitudin pharetra, lacus ex fringilla sem, vel viverra leo nisi nec libero. Nunc velit augue, tempus sed ultrices id, efficitur eu quam. Donec suscipit dapibus dui in pharetra. Cras venenatis ex non finibus consequat. Fusce pretium sagittis quam id porta.</string>
+    <string name="auto_video_quality">Auto</string>
+    <string name="auto_video_quality_dynamic">Auto ( %s )</string>
+
+</resources>
